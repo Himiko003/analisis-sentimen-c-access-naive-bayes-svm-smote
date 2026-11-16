@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+imbalanced-learn
+google-play-scraper
+Sastrawi
+nltk
+joblib
+wordcloud
